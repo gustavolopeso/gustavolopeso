@@ -2,12 +2,11 @@
 
 Agrotech Product Development Engineer and Data Science/Business Inteligence Student
 
-Mechanical Engineer - Poli-USP 2021 <;br>
-Python DS and BI projects <;br>
-Motorsport fan <;br>
-
-[e-mail](mailto:iron.gustavo@gmail.com) <;br>
-[Linkedin](https://www.linkedin.com/in/gustavolopeso/) <;br>
+Mechanical Engineer - Poli-USP 2021 <br>
+Python DS and BI projects <br>
+Motorsport fan <br>
+[e-mail](mailto:gustavo.l.oliveira@alumni.usp.br) <br>
+[Linkedin](https://www.linkedin.com/in/gustavolopeso/) <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolopeso)](https://github.com/anuraghazra/github-readme-stats)
 <!---
