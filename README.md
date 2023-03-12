@@ -1,28 +1,13 @@
-# Hey, how are you?! I’m Gustavo Oliveira!
+### Hello!
 
----
-## About me!
-- Mechanical Engineer from São Paulo, Brasil
-- 22yo
-- Motorsports fan!
+Agrotech Product Development Engineer and Data Science/Business Inteligence Student
 
-## Background
+Mechanical Engineer - Poli-USP 2021
+Python DS and BI projects
+Motorsport fan
 
-- Mechanical design (Solidworks)
-- Automotive engineering
-- Dynamic systems modeling
-- Machine Learning/Statistics classes on college
-- Some python, sklearn, pandas, numpy, matplotlib, scilab and html
-
-## What am I doing here?
-
-- Looking to learn more about data science and automation
-- Gonna publish some of my projects here
-
-## Reach me on
-
-- [E-mail](mailto:iron.gustavo@gmail.com)
-- [Instagram](https://www.instagram.com/gustavo_olp/)
+[e-mail](mailto:iron.gustavo@gmail.com)
+[Linkedin](https://www.linkedin.com/in/gustavolopeso/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolopeso)](https://github.com/anuraghazra/github-readme-stats)
 <!---
