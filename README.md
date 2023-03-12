@@ -1,6 +1,6 @@
 ## Hello!
 
-#### Agrotech Product Development Engineer and Data Science/Business Inteligence Student
+#### Agrotech Product Development Engineer and Data Science/Business Intelligence Student
 
 🔧 Mechanical Engineer - Poli-USP 2021 <br>
 🐍 Python DS and BI projects <br>
