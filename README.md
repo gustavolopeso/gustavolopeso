@@ -7,7 +7,6 @@ Python DS and BI projects
 Motorsport fan
 
 [e-mail](mailto:iron.gustavo@gmail.com)
-
 [Linkedin](https://www.linkedin.com/in/gustavolopeso/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolopeso)](https://github.com/anuraghazra/github-readme-stats)
